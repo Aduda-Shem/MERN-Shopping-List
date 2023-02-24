@@ -15,7 +15,7 @@ Install the server dependencies && the client dependencies:
 ``npm install``
 
 
-Start the server app && the client app
+Start the server app && the client app:
 
 ``npm start``
 
